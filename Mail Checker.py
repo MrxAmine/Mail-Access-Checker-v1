@@ -6,7 +6,7 @@ proxy = []
 
 bad, good, checked, cpm1, cpm2, error = 0, 0, 0, 0, 0, 0
 
-os.system('title Mail Access Checker - By ExtremeDev')
+os.system('title Mail Access Checker - By AmineMrx')
 
 logo = """   
     ____           ______     __                           ____           
